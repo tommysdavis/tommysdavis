@@ -1,6 +1,6 @@
 # Background
 
-Hello. My name is Thomas, but must people call me Tom or Tommy. I'm a Mechanical Engineering student at the [University of Wisconsin Madison](URL https://engineering.wisc.edu/). I made this website to show a little bit of who I am and what I do.
+Hello. My name is Thomas, but must people call me Tom or Tommy. I'm a Mechanical Engineering student at the [University of Wisconsin Madison](URL "https://engineering.wisc.edu/"). I made this website to show a little bit of who I am and what I do.
 
 ## Mill City Roasters
 
