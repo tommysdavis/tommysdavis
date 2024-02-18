@@ -1,10 +1,14 @@
 ## Background
 
-Hello. My name is Thomas, but must people call me Tom or Tommy. I'm a Mechanical Engineering student at the <a href="https://engineering.wisc.edu/" target="_blank">University of Wisconsin - Madison</a>. I made this website to show a little bit of who I am and what I do.
+Hello. My name is Thomas, but most people call me Tom or Tommy. I'm a Mechanical Engineering student at the <a href="https://engineering.wisc.edu/" target="_blank">University of Wisconsin - Madison</a>. I made this website to show a little bit of who I am and what I do.
+
+![Tommy Davis](/images/tomhat.jpeg)
 
 # Mill City Roasters
 
-I started working at Mill City Roasters when I was fifteen years old, the summer after freshman year of high school. I would take the bus and walk for a combined total of an hour long commute both ways. When I was in high school, I mostly did work in the roastery, mainly packaging coffee, green and roasted, and cleaning. I worked there for two summers before I switched to working in a bike shop when I was seventeen. After my freshman year of college I returned to Mill City in search of work that related more to what I was learning in school. That summer, using drawings from their factory in China along with access to the roasters, made assemblies in Autocad Inventor of the company’s entire product lineup. These 3D models are used today for marketing, installation guides, and communications with customers.
+I started working at <a href="https://millcityroasters.com/" target="_blank">Mill City Roasters</a> when I was fifteen years old, the summer after freshman year of high school. I would take the bus and walk for a combined total of an hour long commute both ways. When I was in high school, I mostly did work in the roastery, mainly packaging coffee, green and roasted, and cleaning. I worked there for two summers before I switched to working in a bike shop when I was seventeen. After my freshman year of college I returned to Mill City in search of work that related more to what I was learning in school. That summer, using drawings from their factory in China along with access to the roasters, made assemblies in Autocad Inventor of the company’s entire product lineup. These 3D models are used today for marketing, installation guides, and communications with customers.
+
+View [my work](/mcr) at Mill City Roasters
 
 ## Blower Mount
 
