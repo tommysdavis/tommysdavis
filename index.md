@@ -1,8 +1,8 @@
-# Background
+## Background
 
 Hello. My name is Thomas, but must people call me Tom or Tommy. I'm a Mechanical Engineering student at the <a href="https://engineering.wisc.edu/" target="_blank">University of Wisconsin - Madison</a>. I made this website to show a little bit of who I am and what I do.
 
-## Mill City Roasters
+# Mill City Roasters
 
 I started working at Mill City Roasters when I was fifteen years old, the summer after freshman year of high school. I would take the bus and walk for a combined total of an hour long commute both ways. When I was in high school, I mostly did work in the roastery, mainly packaging coffee, green and roasted, and cleaning. I worked there for two summers before I switched to working in a bike shop when I was seventeen. After my freshman year of college I returned to Mill City in search of work that related more to what I was learning in school. That summer, using drawings from their factory in China along with access to the roasters, made assemblies in Autocad Inventor of the company’s entire product lineup. These 3D models are used today for marketing, installation guides, and communications with customers.
 
@@ -10,7 +10,7 @@ I started working at Mill City Roasters when I was fifteen years old, the summer
 
 On the roasters, behind the drum is a blower that pushes the exhaust out of the drum and up into the ventilation system. The blower is typically routed to a chaff can directly behind the roaster as can be seen in the diagram represented by the red vent. In this case however, due to space constraints, a customer needed to have their chaff collector be on the side of the roaster rather than behind. To do acheive this it was decided that the blower should be rotated 135 degrees counter clockwise. I acheived this by designing two mirrored brackets that would
 
-## Summer 2023
+# Summer 2023
 
 In January 2023 I decided that I would buy a car in the spring and go to Iowa to live with my grandparents and work with my uncle on the family farm. I’d always heard stories about my grandparents, great grandparents, and my dad. Stories about how hard life is on the farm, and how unrelenting the work is. Stories like my great-grandfather’s teenage siblings raising him after his parents died of the Spainish flu, while also taking over the responsibilities of the farm. I was raised to hold hard work in high regard and being the first generation on my dad’s side not brought up on the farm, I’ve often wondered if I had what it took to live some form of that life. So, I decided to find out.
 
