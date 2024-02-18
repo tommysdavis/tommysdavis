@@ -2,7 +2,9 @@
 
 Hello. My name is Thomas, but most people call me Tom or Tommy. I'm a Mechanical Engineering student at the <a href="https://engineering.wisc.edu/" target="_blank">University of Wisconsin - Madison</a>. I made this website to show a little bit of who I am and what I do.
 
-<img src="/images/tomhat.jpeg" class="center" width="200px" alt="Tommy Davis">
+<div class="text-center">
+  <img src="/images/tomhat.jpeg" width="200px" alt="Tommy Davis">
+</div>
 
 # Mill City Roasters
 
